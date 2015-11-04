@@ -1,0 +1,6 @@
+Grupo: Os machetes
+
+Login        Nome         E-mail                     nº telemovel   Data de Adesão 
+
+Maria        Amelia       ola@hotmail.com            963377785      3/11/2015      
+Marcelo      Ferreira     aqui@hotmail.com           96875452       3/11/2015      
